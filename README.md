@@ -7,9 +7,10 @@ It creates a random 14 digits password composed by:
 - 2 special signs
 
 
+
 To create this app I needed:
--Flask Python library to create the .py script;
--main.css file; 
--.html files in "templates" folder downloaded from on-line examples
+- Flask Python library to create the .py script;
+- main.css file; 
+- .html files in "templates" folder downloaded from on-line examples
 
 Some files have been entirely created by me, others downloaded from educational online materials which i later modified according to my needs.
