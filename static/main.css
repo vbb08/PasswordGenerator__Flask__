@@ -1,0 +1,13 @@
+body, html {
+    margin: 150;
+    font-family: Trebuchet MS;
+    background-color: rgb(200,90,0);
+}
+
+form, p {
+    text-align: center;
+}
+
+#password {
+    font-size:large;
+}
