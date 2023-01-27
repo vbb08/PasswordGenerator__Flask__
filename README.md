@@ -1,16 +1,19 @@
-To use the app, download the directories, run the password.py file and open the local host window on the used device (most common is port 127.0.0.1): at this point, on the opened page there will be a "CREATE" button to be clicked to generate the random password. Every time the buttom is pressed a new password is visualized.
+How to run the app:
+- Clone git repo https://github.com/vbb08/Password-Generator
+- Python 3.8 or newer version required
+  Verify Python version installed with command: python --version
+- Run password.py file
+- Open local host window (most common is port 127.0.0.1)
+- Click on the "CREATE" buttom to generate the random password
 
-It creates a random 14 digits password composed by:
+The 14 digits password is composed by:
 - 7 letters
 - 3 capital letters
 - 2 numbers
 - 2 special signs
 
-
-
 To create this app I needed:
 - Flask Python library to create the .py script;
-- main.css file; 
+- main.css file
 - .html files in "templates" folder downloaded from on-line examples
-
-Some files have been entirely created by me, others downloaded from educational online materials which i later modified according to my needs.
+"HTML&CSS design and build websites" by Jon Duckett is the source material for main.css and .html files templates (https://github.com/VirajKanse/HTML-CSS-Design-and-Build-Websites-by-Jon-Duckett).
