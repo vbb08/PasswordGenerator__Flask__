@@ -4,7 +4,7 @@
 - Clone git repo https://github.com/vbb08/Password-Generator
 - Python 3.8 or newer version required: Verify Python version installed with command: python --version
 - Run *password.py* file
-- Open local host window (most common is port 127.0.0.1)
+- Open localhost in browser 
 - Click on the **"CREATE"** buttom to generate the random password
 
 ### The 14 digits password is composed by:
